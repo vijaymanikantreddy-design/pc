@@ -15,8 +15,8 @@ else:
     batch_number = sys.argv[4]
 
     # Print product details
-    print("\n--- Product Details ---")
-    print(f"Product Name       : {product_name}")
-    print(f"Manufacturing Date : {manufacturing_date}")
-    print(f"Expiry Date        : {expiry_date}")
-    print(f"Batch Number       : {batch_number}")
+print("\n--- Product Details ---")
+print(f"Product Name       : {product_name}")
+print(f"Manufacturing Date : {manufacturing_date}")
+print(f"Expiry Date        : {expiry_date}")
+print(f"Batch Number       : {batch_number}")
